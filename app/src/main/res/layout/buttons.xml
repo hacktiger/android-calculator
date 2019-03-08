@@ -293,7 +293,6 @@
     <Button
         android:id="@+id/btn_div"
         style="@style/cal_btn"
-        android:background="@drawable/hexagon"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/cal_btn_margin"
@@ -310,3 +309,4 @@
         app:layout_constraintVertical_weight="1" />
 
 </android.support.constraint.ConstraintLayout>
+
